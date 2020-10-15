@@ -1,0 +1,6 @@
+waybackmachine shows old versions of websites
+joel spolsky readings about topics
+look up meta tag attributes
+crop-circle.imageonline site for dealing with images
+deprecated means not advised to for example using css attributes in html file
+look input tags

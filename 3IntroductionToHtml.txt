@@ -1,0 +1,8 @@
+mdn and w3schools and devdocs.io are good websites to find documentation
+could use notepen for writing code
+some attributes for hr is size, color, width, noshade, color, align
+<center></center> centers the content inside
+<!--  
+This is a comment
+-->
+/* this is a comment */

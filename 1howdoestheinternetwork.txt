@@ -1,0 +1,4 @@
+client > internet service provider > dns server
+> server
+dns server changes url to ip adress
+if we type ip adress instead of a url, dns server is replaces with backbone of internet
